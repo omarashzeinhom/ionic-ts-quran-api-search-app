@@ -11,6 +11,7 @@ import {
   IonItem,
   IonItemDivider,
   IonPage,
+  IonRouterLink,
   IonRow,
   IonText,
   IonTitle,
@@ -80,12 +81,13 @@ const Search = () => {
               <IonItem>
                 <IonCard>
                   <IonCardSubtitle>
-                    Made By Omar Abdelrahman.@2022
+                    Page Made By Omar Abdelrahman.@2022
+and Utilizing Quran Cloud Free API .
                   </IonCardSubtitle>
                 </IonCard>
               </IonItem>
             </IonCol>
-
+           
             <IonCol size="12" class="ion-padding">
               <IonItem>
                 <IonIcon icon={book} class="ion-center" />
