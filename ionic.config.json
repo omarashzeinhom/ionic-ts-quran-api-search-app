@@ -1,0 +1,7 @@
+{
+  "name": "searchApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
